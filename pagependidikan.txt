@@ -1,0 +1,72 @@
+<!DOCTYPE  html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Rhizma's Website </title>
+		<link rel="stylesheet" href="Praktek2.css">
+			
+			
+	</head>
+	
+	<body>
+		<style type="text/css">
+			body{
+			font-family: comic sans ms;
+			font-size: 15px;
+			color: black;
+			background-color: #FFEDDB;
+			}
+		</style>
+
+		<br>
+		<nav>
+			<div class="wrapper">
+				<div class="logo">
+					<a href=''> Rhizma's Website </a>
+				</div>
+				<div class="menu">
+					<ul>
+						<li><a href="pagehome.html">Home</a></li>
+						<li class="active"><a href="pagependidikan.html">Pendidikan</a></li>
+						<li><a href="pagejadwalkuliah.html">Jadwal Kuliah</a></li>
+						<li><a href="pageaktivitas.html">Aktivitas</a></li>
+						<li><a href="pageaboutme.html">About Me</a></li>
+						<li><a href="pageletstalk.html">Let's Talk</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div class="wrapper">
+			<section id="pendidikan">
+				<div class="tengah">
+					<p class="deskripsi"></p>
+					<h2> My Education </h2>
+					<p> Pendidikan merupakan hal terpenting menurut saya. Saya menganggap bahwa kesuksesan akan sulit diraih apabila saya tidak mengikuti sebuah pendidikan. Saya telah menempuh pendidikan formal di setiap jenjangnya hingga saat ini.</p>
+				</div>
+			</section>
+			<section>
+				<div class="uptlist">
+					<div class="listedu">
+						<img src="http://bitly.ws/oNPf"/>
+						<h1>SMPN 1 Sedati</h1>		
+						<p>2015-2017</p>
+						<a href="https://smpn1sedati.sch.id/"  target="_self">More about..</a>
+					</div>
+					<div class="listedu">
+						<img src="http://sman1gedangan.sch.id/wp-content/uploads/2017/05/LOGO-SMAN-1-GEDANGAN-1-264x300.png"/>
+						<h1>SMAN 1 Gedangan</h1>
+						<p>2017-2020</p>
+						<a href="https://sman1gedangan.sch.id/" target="_self">More about..</a>
+					</div>
+					<div class="listedu">
+						<img src="https://4.bp.blogspot.com/-zomJMcLq43g/WfcfjVehQqI/AAAAAAAABwo/1DSRq_PGM1A1uCeZA5EfjiqFK_vbiTMkACLcBGAs/s1600/Logo%2BUpn%2BJatim%2BBaru.png"/>
+						<h1>UPN "Veteran" Jatim</h1>
+						<p>2020-Now</p>
+						<a href="https://www.upnjatim.ac.id/" target="_self">More about..</a>
+					</div>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>

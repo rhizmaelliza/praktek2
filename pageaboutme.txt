@@ -1,0 +1,65 @@
+<!DOCTYPE  html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Rhizma's Website </title>
+		<link rel="stylesheet" href="Praktek2.css">
+			
+			
+	</head>
+	
+	<body>
+		<style type="text/css">
+			body{
+			font-family: comic sans ms;
+			font-size: 15px;
+			color: black;
+			background-color: #FFEDDB;
+			}
+		</style>
+
+		<br>
+		<nav>
+			<div class="wrapper">
+				<div class="logo">
+					<a href=''> Rhizma's Website </a>
+				</div>
+				<div class="menu">
+					<ul>
+						<li><a href="pagehome.html">Home</a></li>
+						<li><a href="pagependidikan.html">Pendidikan</a></li>
+						<li><a href="pagejadwalkuliah.html">Jadwal Kuliah</a></li>
+						<li><a href="pageaktivitas.html">Aktivitas</a></li>
+						<li class="active"><a href="pageaboutme.html">About Me</a></li>
+						<li><a href="pageletstalk.html">Let's Talk</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div class="wrapper">
+			<section id="aboutme">
+				<div class="fotosaya">
+					<p class="deskripsi"></p>
+					<h2> About Me </h2>
+					<img src="myself.jpg">
+				</div>
+				<div class="tentangsaya">
+					<p>Nama						: Rhizma Elliza Putri</p>
+					<p>NPM						: 20082010120</p>
+					<p>Jurusan					: Sistem Informasi</p>
+					<p>Fakultas					: Ilmu Komputer</p>
+					<p>Asal Universitas			: UPN "Veteran" Jatim</p>
+					<p>~ Funfact About Me ~ Pernah ingin kuliah jurusan DKV karena menyukai seni tetapi lebih memilih jurusan Sistem Informasi karena tertarik. Klik tombol di bawah untuk melihat karya saya^^</p>
+				</div>
+			</section>
+			<section id="myarts">
+				<div class="karyaku">
+					<p class="deskripsi"></p>
+					<h2> My Arts </h2>
+					<a href="pagemyarts.html" target="_self">"Klik di Sini"</a>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>

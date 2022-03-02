@@ -1,0 +1,126 @@
+<!DOCTYPE  html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Rhizma's Website </title>
+		<link rel="stylesheet" href="Praktek2.css">
+			
+			
+	</head>
+	
+	<body>
+		<style type="text/css">
+			body{
+			font-family: comic sans ms;
+			font-size: 15px;
+			color: black;
+			background-color: #FFEDDB;
+			}
+		</style>
+
+		<br>
+		<nav>
+			<div class="wrapper">
+				<div class="logo">
+					<a href=''> Rhizma's Website </a>
+				</div>
+				<div class="menu">
+					<ul>
+						<li><a href="pagehome.html">Home</a></li>
+						<li><a href="pagependidikan.html">Pendidikan</a></li>
+						<li><a href="pagejadwalkuliah.html">Jadwal Kuliah</a></li>
+						<li><a href="pageaktivitas.html">Aktivitas</a></li>
+						<li><a href="pageaboutme.html">About Me</a></li>
+						<li><a href="pageletstalk.html">Let's Talk</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div class="wrapper">
+			<section id="myarts">
+				<div class="myart">
+					<p class="deskripsi"></p>
+					<h2> My Arts </h2>
+					<p> Saya memiliki hobi menggambar dan melukis berbentuk manual maupun digital, saya juga berbisnis melalui hobi ini dengan menawarkan jasa ilustrasi. Berikut merupakan karya-karya milik saya yang pernah saya post di akun Instagram khusus saya. </p>
+					<a href="https://www.instagram.com/sagitta.ris"  target="_self">My Art's Account</a>
+				</div>
+			</section>
+			<section>
+				<div class="listart">
+					<div class="karya">
+						<img src="karya1.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CMUar_BhZfu/?utm_source=ig_web_copy_link"  target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+					<div class="karya">
+						<img src="karya4.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CK3TnrKhhA9/?utm_source=ig_web_copy_link" target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+					<div class="karya">
+						<img src="karya7.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CSgtrerBq5H/?utm_source=ig_web_copy_link" target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+				</div>
+			</section>
+			<section>
+				<div class="listart">
+					<div class="karya">
+						<img src="karya2.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CMZHl5_B4IM/?utm_source=ig_web_copy_link"  target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+					<div class="karya">
+						<img src="karya5.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CKyecTrBnbL/?utm_source=ig_web_copy_link" target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+					<div class="karya">
+						<img src="karya8.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CSQfe61hwZ7/?utm_source=ig_web_copy_link" target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+				</div>
+			</section>
+			<section>
+				<div class="listart">
+					<div class="karya">
+						<img src="karya3.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CNhGkBkh49z/?utm_source=ig_web_copy_link"  target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+					<div class="karya">
+						<img src="karya6.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CKviqp6Bq5R/?utm_source=ig_web_copy_link" target="_self">More about..</a>
+						<br>
+						<br>
+					</div>
+					<div class="karya">
+						<img src="karya9.jpg"/>
+						<br>
+						<a href="https://www.instagram.com/p/CSye0QqntLN/?utm_source=ig_web_copy_link" target="_self">More about..</a>
+						<br> 
+						<br>
+					</div>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>

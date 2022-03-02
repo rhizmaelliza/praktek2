@@ -1,0 +1,83 @@
+<!DOCTYPE  html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Rhizma's Website </title>
+		<link rel="stylesheet" href="Praktek2.css">
+			
+			
+	</head>
+	
+	<body>
+		<style type="text/css">
+			body{
+			font-family: comic sans ms;
+			font-size: 15px;
+			color: black;
+			background-color: #FFEDDB;
+			}
+		</style>
+
+		<br>
+		<nav>
+			<div class="wrapper">
+				<div class="logo">
+					<a href=''> Rhizma's Website </a>
+				</div>
+				<div class="menu">
+					<ul>
+						<li><a href="pagehome.html">Home</a></li>
+						<li><a href="pagependidikan.html">Pendidikan</a></li>
+						<li class="active"><a href="pagejadwalkuliah.html">Jadwal Kuliah</a></li>
+						<li><a href="pageaktivitas.html">Aktivitas</a></li>
+						<li><a href="pageaboutme.html">About Me</a></li>
+						<li><a href="pageletstalk.html">Let's Talk</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div class="wrapper">
+			<section id="jadwalkuliah">
+				<div class="tengah">
+					<p class="deskripsi"></p>
+					<h2> Jadwal Kuliah </h2>
+					<p> Saya adalah seorang mahasiswa Sistem Informasi angkatan 2020 yang memiliki jadwal mata kuliah 5 hari dalam 1 minggu seperti tabel di bawah ini:
+				</div>
+			</section>
+			<section id="tabelmatkul">
+				<div class="tabel">
+				<table width="500" border= "0" cellpadding="0" cellspacing="0">
+					<tr>
+						<th width="130"> Senin </th>
+						<th width="130"> Selasa </th>
+						<th width="130"> Rabu </th>
+						<th width="130"> Kamis </th>
+						<th width="130"> Jum'at</th>
+					</tr>
+					<tr>
+						<td> Sistem Enterprise </td>
+						<td> Tata Kelola TI </td>
+						<td> Bahasa Indonesia </td>
+						<td> Pemrograman Web </td>
+						<td> E-Bisnis </td>
+					</tr>
+					<tr>
+						<td></td>
+						<td> Administrasi Database </td>
+						<td> Analisis Desain SI </td>
+						<td> Keamanan SI </td>
+						<td></td>
+					</tr>
+				</table>
+				</div>
+			</section>
+			<section>
+				<div class="watermark">
+					<p class="watermark"></p>
+					<h2>Pararel D - Sistem Informasi - UPN "Veteran" Jatim</h2>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>

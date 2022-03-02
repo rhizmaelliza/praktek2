@@ -1,0 +1,53 @@
+<!DOCTYPE  html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title> Rhizma's Website </title>
+		<link rel="stylesheet" href="Praktek2.css">		
+	</head>
+	
+	<body>
+		<style type="text/css">
+			body{
+			font-family: comic sans ms;
+			font-size: 15px;
+			color: black;
+			background-color: #FFEDDB;
+			}
+		</style>
+		<nav>
+			<div class="wrapper">
+				<div class="logo">
+					<a href=''> Rhizma's Website </a>
+				</div>
+				<div class="menu">
+					<ul>
+						<li class="active"><a href="pagehome.html">Home</a></li>
+						<li><a href="pagependidikan.html">Pendidikan</a></li>
+						<li><a href="pagejadwalkuliah.html">Jadwal Kuliah</a></li>
+						<li><a href="pageaktivitas.html">Aktivitas</a></li>
+						<li><a href="pageaboutme.html">About Me</a></li>
+						<li><a href="pageletstalk.html">Let's Talk</a></li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div class="wrapper">
+			<section id="home">				
+				<div class="kolom">
+					<img src="picture.jpg"/>
+				<div class="kolom">				
+					<p class="deskripsi"></p>
+					<h2>Welcome to My Website</h2>
+					<h3>
+						Halo! Perkenalkan nama saya Rhizma Elliza Putri
+						Biasa dipanggil Rhizma atau Risa.
+						Saya mahasiswa jurusan Sistem Informasi angkatan 2020 UPNVJT yang sedang belajar membuat website.
+						Inilah website pertama yang saya buat^^
+					</h3>
+				</div>
+			</section>
+		</div>
+	</body>
+</html>
